@@ -1,6 +1,6 @@
-### Hi there, I'm Darker - aka [Darkerhack] 👋  
+### Hi there, I'm arrz - aka [Arr0z] 👋  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dark3rH4cK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=arrztk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arrztk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=arrztk)
 
 <img align='right' src="https://media1.giphy.com/media/26gQt4FJ6gd6DUGFW/giphy.gif" width="380">
 
