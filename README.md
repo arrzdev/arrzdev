@@ -1,4 +1,4 @@
-### Hi there, I'm arrz - aka [Arr0z] 👋  
+### Hi there, I'm arrz - aka [arroz] 👋  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arrztk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=arrztk)
 
