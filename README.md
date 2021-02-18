@@ -10,7 +10,7 @@
 ## Self Taught Computer Science Student
 - 🔥 Currently working on Open Source Portugal Weather API 
 - 🤗 Looking forward to learn new things
-- 😇 Fun fact: I got a bug python
+- 😇 Fun fact: I got a big python
 
 
 ### Connect with me :
