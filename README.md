@@ -28,7 +28,7 @@
 
 ### 📈  My Github Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arr0zado&show_icons=true&theme=gotham" alt="Arr0zado" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arrzdev&show_icons=true&theme=gotham" alt="arrzdev" />
 
 
 <br/>
