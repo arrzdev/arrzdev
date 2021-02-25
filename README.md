@@ -8,7 +8,7 @@
 
 
 ## Self Taught Computer Science Student
-- 🔥 Currently working on Open Source Portugal Weather API 
+- 🔥 Currently working on KahootBot
 - 🤗 Looking forward to learn new things
 - 😇 Fun fact: I got a big python
 
