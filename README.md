@@ -8,9 +8,8 @@
 
 
 ## Self Taught Computer Science Student
-- 🔥 Currently working on KahootBot
+- 🔥 Currently working on judy a virtual assistant
 - 🤗 Looking forward to learn new things
-- 😇 Fun fact: I got a big python
 
 
 ### Connect with me :
