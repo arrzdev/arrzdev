@@ -8,7 +8,7 @@
 
 
 ## Self Taught Computer Science Student
-- 🔥 Currently working on judy a virtual assistant
+- 🔥 Currently working on mastering web dev
 - 🤗 Looking forward to learn new things
 
 
