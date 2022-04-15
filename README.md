@@ -4,8 +4,8 @@
 
 ### Connect with me :
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="arrztk | Twitter" width="22px" src="https://www.svgrepo.com/show/13677/twitter.svg" />][twitter]
+[<img align="left" alt="arrz.t | Instagram" width="22px" src="https://www.svgrepo.com/show/13639/instagram.svg" />][instagram]
 
 
 [twitter]: https://twitter.com/arrztk
